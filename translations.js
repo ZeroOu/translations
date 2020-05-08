@@ -6872,7 +6872,7 @@ pl:{
 	alsoImpactsGestationSpeed: "Impactos na velocidade de gestação",
 	alsoPreferredBy: "Também preferido por",
 	amountPerUse: "Quantidade por uso",
-	appSettings: "Configurações",
+	appSettings: "Configurações", 
 	baby: "Filhote",
 	babyMatureSpeed: "Velocidade de Maturação do Filhote",
 	back: "Voltar",
@@ -7189,15 +7189,15 @@ pl:{
 	recent: "Recente",
 	categories: "Categorias",
 	search: "Procurar",
-	merch: "Menina",
+	merch: "Nossa loja",
 	human: "Humano",
 	wallGap: "O {0} pode passar {1} por um buraco na parede.",
 	mustEat: "Deve comer {0} alimentos para ser domado.",
 	otherCreatures: "Outras Criaturas",
 	help: "Ajuda",
-	kibbleRecipe: "Receita de Kibble",
+	kibbleRecipe: "Receita da ração",
 	creatureInfo: "Informação da Criatura",
-	arkMobile: "Ark Móvel",
+	arkMobile: "Ark para celulares",
 	share: "Compartilhar",
 	ratingPromptTitle: "O Dododex foi útil?",
 	ratingPromptDesc: "Olá, Meu nome é Dan, e eu sou o desenvolvedor por trás do Dododex. Meu aplicativo tem lhe ajudado?",
@@ -7220,7 +7220,7 @@ pl:{
 	secsBetweenHits: "Segundos entre Danos",
 	secsBetweenHitsNote: "O torpor de uma criatura se esgota naturalmente com o tempo. Intervalos mais longos entre os danos, darão mais tempo para o torpor se esgotar, aumentando o número necessário de danos. Os intervalos de tempo serão mais significativos em criaturas com maior taxa de esgotamento do torpor. Algumas armas pausam o esgotamento do torpor, a medida que o atinjam por vários segundos. O Dododex também leva isso em consideração.",
 	wiki: "Wiki",
-	creatureMap: "Mapa de Critautras",
+	creatureMap: "Mapa de Criaturas",
 	resourceMap: "Mapa de Recursos",
 	explorerMap: "Mapa de Exploração",
 	weightReduction: "Redução de Peso",
@@ -9280,14 +9280,18 @@ var languages = {
 		name:"Português (Brasil)",
 		credit:[{
 			name:"Will Oliveira",
-			link:"https://twitter.com/WillOliveiraVix"
-		}]
+			link:"https://twitter.com/WillOliveira              
+                },{
+                        name:"Matheeus_ds"
+                        link:"https://github.com/ZeroOu"
+                }]
 	},
 	ro:{
 		name:"Română",
 		credit:[{
 			name:"Freya",
 			link:"https://twitter.com/150Freya"
+
 		}]
 	},
 	ru:{
